@@ -1,4 +1,4 @@
-## this is single line comment
+# this is single line comment
 userName = 'praveen'
 print(userName)
 
@@ -10,3 +10,11 @@ This is the third line of the multi-line comment.
 '''
 
 print("Hello World")
+
+# Python is a case sensitive language
+name = 'Praveen'
+Name = 'Shekarappa'
+print(name)
+print(Name)
+
+
