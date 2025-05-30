@@ -1,0 +1,5 @@
+#!/Users/pshekarappa/pravn27/eng-it-career/full-stack-data-ai/python/python-learning-journey/krish-naik/venv/bin/python3.12
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()

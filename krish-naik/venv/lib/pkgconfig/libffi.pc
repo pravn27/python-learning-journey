@@ -1,0 +1,11 @@
+prefix=/Users/pshekarappa/pravn27/eng-it-career/full-stack-data-ai/python/python-learning-journey/krish-naik/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/pshekarappa/pravn27/eng-it-career/full-stack-data-ai/python/python-learning-journey/krish-naik/venv/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
